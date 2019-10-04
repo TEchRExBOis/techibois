@@ -1,2 +1,2 @@
 # techibois
-We are to change the world by our web development 
+We are here to change the world by our web development 
